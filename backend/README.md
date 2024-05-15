@@ -79,6 +79,6 @@ dotnet clean
 dotnet build
 ```
 ```bash
-dotnet run urls=http://localhost:5173
+dotnet run urls=http://localhost:5124
 ```
-* PS: A porta padrão é 5173, caso queira mudar a porta, altere o valor no arquivo launchSettings.json e no configutation/ConfigurationCors.cs
+* PS: A porta padrão é 5124, caso queira mudar a porta, altere o valor no arquivo launchSettings.json e no configutation/ConfigurationCors.cs
