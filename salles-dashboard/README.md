@@ -18,16 +18,14 @@ O projeto foi criado como parte de um teste para uma posição de desenvolvedor 
 
 ## Configuração e Instalação
 
-1. **Clone o repositório**: Primeiro, você precisa clonar o repositório para a sua máquina local usando `git clone https://github.com/Mizaeldouglas/Teste-Programador-CSharp-ReactJS.git`.
+1. **Clone o repositório**: Primeiro, você precisa clonar o repositório para a sua máquina local usando `https://github.com/Mizaeldouglas/Teste-CSharp-ReactJS.git`.
 
-2. **Entrar no diretorio FrontEnd**: ``
+2. **Entrar no diretorio Frontend**: Rodar o comando no terminal: `cd Teste-CSharp-ReactJS/salles-dashboard/`
 
-3. **Instale as dependências**: Navegue até a pasta do projeto e execute `npm install` para instalar todas as dependências listadas no arquivo `package.json`.
+3. **Instale as dependências**: Navegue até a pasta do projeto e execute `npm install` para instalar todas as dependências listadas no arquivo `package.json`. Versão do node: `node --version v21.6.2`
 
 ## Como iniciar o projeto
 
 1. **Desenvolvimento**: Para iniciar o servidor de desenvolvimento, execute `npm run dev`. Isso iniciará o servidor em `http://localhost:5173`.
 
 - E sempre utilizar a porta `http://localhost:5173` pois ela que esta Configurado no Backend
-
-2. **Build**: Para criar uma versão de produção do projeto, execute `npm run build`. Isso criará uma pasta `dist` com os arquivos de produção.
