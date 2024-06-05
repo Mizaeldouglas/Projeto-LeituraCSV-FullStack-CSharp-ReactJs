@@ -6,6 +6,11 @@ Hoje temos um grande problema de controle, manutenção das vendas e logística 
 
 Sabendo disso selecionamos você para desenvolver um sistema revolucionário que irá solucionar todos os nossos problemas!
 
+# Video de como ficou o projeto Final:
+
+https://github.com/Mizaeldouglas/Projeto-LeituraCSV-FullStack-CSharp-ReactJs/assets/89351018/fe80ee51-334b-4206-89b6-53397c7e32dd
+
+
 ##### README backend e fontend:
 
 Para saber mais sobre como inicializar cada projeto entre nos README dos Projetos
